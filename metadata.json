@@ -1,0 +1,5 @@
+{
+  "name": "Istanbul Prayer Times",
+  "description": "A web application that calculates and displays daily Islamic prayer times based on the user's location, with notifications for each prayer.",
+  "requestFramePermissions": ["geolocation"]
+}
