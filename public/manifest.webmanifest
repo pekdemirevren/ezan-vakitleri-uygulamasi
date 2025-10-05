@@ -1,0 +1,27 @@
+{
+  "name": "Ezan Vakti Uygulaması",
+  "short_name": "Ezan Vakti",
+  "description": "Namaz vakitlerini, ezan saatlerini ve günlük dua hatırlatmalarını takip edebileceğiniz hafif ve sade bir uygulama.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00796b",
+  "orientation": "portrait",
+  "lang": "tr",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
